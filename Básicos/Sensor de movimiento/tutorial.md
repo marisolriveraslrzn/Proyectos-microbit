@@ -33,7 +33,7 @@ El micro:bit detecta si se mueve con fuerza (por ejemplo, una sacudida). Si el v
 
 ---
 
-© Andmar Rivera Solórzano – Este tutorial forma parte del repositorio educativo **Proyectos micro:bit**.  
+© Marisol Rivera Solorzano – Este tutorial forma parte del repositorio educativo **Proyectos micro:bit**.  
 Distribuido bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
 Se permite su uso y adaptación con atribución, sin fines comerciales y compartiendo bajo la misma licencia.
 
