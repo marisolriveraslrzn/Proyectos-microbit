@@ -17,7 +17,7 @@ Este repositorio está licenciado bajo los términos de la **Creative Commons At
 
 Si reutilizas o adaptas alguno de los proyectos, puedes incluir una nota como:
 
-> Proyecto basado en el repositorio [Proyectos Educativos con micro:bit](https://github.com/marisolriveraslrzn/Proyectos-microbit) de Andmar Rivera Solórzano, bajo licencia CC BY-NC-SA 4.0.
+> Proyecto basado en el repositorio [Proyectos Educativos con micro:bit](https://github.com/marisolriveraslrzn/Proyectos-microbit) de Marisol Rivera Solórzano, bajo licencia CC BY-NC-SA 4.0.
 
 ## 🔗 Más información
 
