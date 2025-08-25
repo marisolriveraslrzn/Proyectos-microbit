@@ -10,8 +10,7 @@ Este proyecto utiliza la placa micro:bit para detectar sonidos fuertes (como un 
 - Visualización con matriz LED.
 
 ## 🖼 Simulador 
-
-![Circuito con micro:bit y sensor de sonido](Images/Imag1.jpeg)
+![Simulación del proyecto](../../Images/Imag1.jpeg)
 
 ## 🎬 ¿Qué hace el proyecto?
 
