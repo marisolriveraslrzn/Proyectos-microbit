@@ -17,7 +17,7 @@ El micro:bit mide la temperatura ambiente y la muestra en pantalla. Según el va
 - Si está entre 16 °C y 29 °C, muestra una cara feliz 😊.
 
 ## 🖼 Simulador
-![Simulación del proyecto](../Images/Gif2.gif)
+![Simulación del proyecto](../../Images/Gif2.gif)
 
 ## 🧰 Materiales
 
@@ -25,24 +25,15 @@ El micro:bit mide la temperatura ambiente y la muestra en pantalla. Según el va
 - Cable USB o batería.
 - Editor MakeCode o Python.
 
-## 🧪 Código
+## 🧩 Extensión didáctica
+- Comparar temperaturas en distintos ambientes.
 
-```python
-def mostrar_temperatura():
-    temperatura = input.temperature()
-    basic.show_number(temperatura)
-    if temperatura >= 30:
-        basic.show_icon(IconNames.SAD)
-    elif temperatura <= 15:
-        basic.show_icon(IconNames.ASLEEP)
-    else:
-        basic.show_icon(IconNames.HAPPY)
+- Crear alertas visuales para temperaturas extremas.
 
-basic.forever(mostrar_temperatura)
-```
-🧩 Extensión didáctica
-Comparar temperaturas en distintos ambientes.
+- Integrar con sensores externos para mayor precisión.
+---
 
-Crear alertas visuales para temperaturas extremas.
+© Marisol Rivera Solorzano – Este tutorial forma parte del repositorio educativo **Proyectos micro:bit**.  
+Distribuido bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+Se permite su uso y adaptación con atribución, sin fines comerciales y compartiendo bajo la misma licencia.
 
-Integrar con sensores externos para mayor precisión.
