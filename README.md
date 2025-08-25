@@ -10,7 +10,6 @@ Este repositorio reúne una colección de proyectos interactivos desarrollados c
 - Facilitar la integración de micro:bit en portafolios educativos internacionales.
 
 ## 📁 Estructura del repositorio
-´´´
 ```Proyectos-microbit/ 
 ├── Básicos/
 │ ├── Luces por aplauso/
