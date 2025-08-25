@@ -10,5 +10,4 @@ Este proyecto utiliza la matriz LED de la placa micro:bit para representar fracc
 - Fomentar el aprendizaje activo y visual de matemática.
 
 ## 🖼 Simulador
-
-![](Images/Gif1.gif)
+![Simulación del proyecto](../Images/Gif1.gif)
