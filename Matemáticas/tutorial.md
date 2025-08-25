@@ -11,3 +11,7 @@ Este proyecto utiliza la matriz LED de la placa micro:bit para representar fracc
 
 ## 🖼 Simulador
 ![Simulación del proyecto](../Images/Gif1.gif)
+---
+© Marisol Rivera Solorzano – Este tutorial forma parte del repositorio educativo **Proyectos micro:bit**.  
+Distribuido bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+Se permite su uso y adaptación con atribución, sin fines comerciales y compartiendo bajo la misma licencia.
