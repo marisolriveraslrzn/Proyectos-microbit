@@ -16,21 +16,9 @@ Este proyecto utiliza la placa micro:bit para detectar sonidos fuertes (como un 
 
 Cuando el micro:bit detecta un sonido fuerte (como un aplauso), alterna entre mostrar una figura en la matriz LED y apagarla. Es una forma divertida de enseñar interacción física con el entorno.
 
-```python
-def on_sound_loud():
-    global lighsOn
-    lighsOn = not (lighsOn)
-    if lighsOn:
-        basic.show_leds("""
-            # # # # #
-            # . . . #
-            # . . . #
-            # . . . #
-            # # # # #
-        """)
-    else:
-        basic.clear_screen()
 
-input.on_sound(DetectedSound.LOUD, on_sound_loud)
-lighsOn = False
-input.set_sound_threshold(SoundThreshold.LOUD, 150)
+---
+
+© Andmar Rivera Solórzano – Este tutorial forma parte del repositorio educativo **Proyectos micro:bit**.  
+Distribuido bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+Se permite su uso y adaptación con atribución, sin fines comerciales y compartiendo bajo la misma licencia.
