@@ -8,21 +8,6 @@ Este repositorio reúne una colección de proyectos interactivos desarrollados c
 - Documentar cada proyecto con ejemplos, simulaciones y recursos visuales.
 - Facilitar la integración de micro:bit en portafolios educativos internacionales.
 
-## 📁 Estructura del repositorio
-```Proyectos-microbit/ 
-├── Básicos/
-│ ├── Luces por aplauso/
-│ ├── Termómetro digital/
-│ └── Sensor de movimiento/
-├── Juegos/
-│ ├── Piedra papel o tijera/
-│ └── Dado virtual/
-├── Música y arte/
-│ ├── Piano con botones/
-│ └── Animaciones LED/
-├── README.md
-```
-
 ## 🧭 Compatibilidad y versiones
 
 Este repositorio incluye proyectos compatibles con distintas versiones de la placa BBC micro:bit:
@@ -66,30 +51,29 @@ input.set_sound_threshold(SoundThreshold.LOUD, 150)
 
 ```
 
-🧰 Herramientas utilizadas
-MakeCode Editor para bloques, Python y simulaciones.
+## 🧰 Herramientas utilizadas
+- MakeCode Editor para bloques, Python y simulaciones.
+- micro:bit v2 para pruebas físicas.
+- GitHub para documentación y colaboración.
 
-micro:bit v2 para pruebas físicas.
+## 📚 Recursos complementarios
+- Guías paso a paso en cada carpeta.
+- Archivos ,py para guia de código(no confundir con .HEX).
 
-GitHub para documentación y colaboración.
-
-📚 Recursos complementarios
-Guías paso a paso en cada carpeta.
-
-Archivos .hex para descarga directa.
-
-README específicos por proyecto con objetivos, materiales y extensión didáctica.
-
-🧵 Contribuciones
+## 🧵 Contribuciones
 Este repositorio está abierto a docentes, estudiantes y entusiastas de la programación educativa. Puedes:
 
-Proponer nuevos proyectos.
+- Proponer nuevos proyectos.
+- Mejorar la documentación.
+- Traducir actividades o adaptarlas a otros niveles.
 
-Mejorar la documentación.
-
-Traducir actividades o adaptarlas a otros niveles.
+---
 
 🪪 Licencia
-Contenido educativo bajo licencia Creative Commons BY-NC-SA. Puedes usarlo y adaptarlo con atribución, sin fines comerciales.
+© Marisol Rivera Solórzano
+- Contenido educativo distribuido bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+Se permite su uso y adaptación con atribución, sin fines comerciales y compartiendo bajo la misma licencia.
+
+---
 
 
