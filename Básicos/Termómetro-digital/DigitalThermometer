@@ -1,0 +1,11 @@
+def mostrar_temperatura():
+    temperatura = input.temperature()
+    basic.show_number(temperatura)
+    if temperatura >= 30:
+        basic.show_icon(IconNames.SAD)
+    elif temperatura <= 15:
+        basic.show_icon(IconNames.ASLEEP)
+    else:
+        basic.show_icon(IconNames.HAPPY)
+
+basic.forever(mostrar_temperatura)
