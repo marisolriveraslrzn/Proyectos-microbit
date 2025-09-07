@@ -9,7 +9,7 @@ Simular un dado de 6 caras al agitar el dispositivo. Ideal para enseñar aleator
 
 ## 🖼 Simulador
 
-![Simulación del proyecto](../Images/Gif5.gif)
+![Simulación del proyecto](../../Images/Gif5.gif)
 
 
 ---
